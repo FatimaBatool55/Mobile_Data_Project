@@ -8,7 +8,7 @@ To analyze smartphone market trends by exploring launch prices, battery capaciti
 
 ## 📊 Dataset Used  
 📂 [Mobiles Data.csv](https://github.com/FatimaBatool55/Mobile_Data_Project/blob/main/Mobiles%20Data.csv)  
-The dataset includes Apple iPhone models (2015–2024) with attributes such as:
+The dataset includes Apple iPhone models with attributes such as:
 
 - Model Name  
 - Weight  
